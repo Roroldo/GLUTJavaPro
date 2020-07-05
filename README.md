@@ -15,9 +15,13 @@
   * 开发环境
     > IDEA 2019.3.1 + JDK11
 
-## 三、安利几个好用的IDEA插件
+## 三、参考教程
+   * 实验七网络编程第三题的C/S的实现，参考的教程，[请看这里](https://www.cnblogs.com/wuyida/p/6300350.html)
+
+## 四、安利几个好用的IDEA插件
 * 1. **Rainbow brackets**     彩虹括号
 * 2. **Material Theme UI**    主题美化
 * 3. **Alibaba Java Code Guidelimes**    阿里巴巴Java开发规范插件
 * 4. **CodeGlance**        左侧栏代码迷你小地图
 * 5. **Key Promoter X**    记录你常用的操作并提示对应的快捷键
+
